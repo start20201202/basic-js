@@ -17,4 +17,4 @@ if (month = 12 || month < 3){
 } else if (month < 12) {
     return 'autumn';
 }};
-console.log (getSeason(2020-12-02))
+
