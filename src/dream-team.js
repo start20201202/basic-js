@@ -10,4 +10,3 @@ if (typeof t === 'string') name.push(t.trim().charAt(0).toUpperCase())
 return name.sort().join('')
 };
 
-console.log(createDreamTeam(['Peter', 'Adam', 'Gary', 'Bobby', 'Philip', 'Andrea', 'Evelyn', 'Evelyn', 'Kimberly', 'Denise']));
